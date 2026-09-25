@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.boom-intelligent.cn/sitemap.xml
